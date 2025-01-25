@@ -54,22 +54,6 @@ You can toggle the debug mode by pressing `Q`. When enabled, the current positio
 
 ---
 
-## Example Screenshots 📸
-
-### Welcome Screen
-
-![Welcome Screen](./images/welcome_screen.png)
-
-### Gameplay
-
-![Gameplay](./images/gameplay.png)
-
-### Game Over
-
-![Game Over](./images/game_over.png)
-
----
-
 ## Acknowledgments 🙏
 
 - This game uses the `uib_inf100_graphics` library for graphical rendering.
