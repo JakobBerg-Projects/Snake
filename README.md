@@ -55,9 +55,6 @@ Gameplay
 
 Game Over
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 The game uses the uib_inf100_graphics library for graphical rendering.
 The Snake game is a classic game originally created by Gremlin Interactive and released in 1976.
