@@ -40,6 +40,7 @@ bash
 Kopier
 Rediger
 pip install uib-inf100-graphics tkinter
+
 Game Instructions
 Starting the Game:
 
